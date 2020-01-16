@@ -2,7 +2,7 @@
 The purpose of this app is to display associated offers for a customer based on a form dropdown selection and test the expected results using Cypress.
 
 ## Technologies
-This is using React, Webpack, Reactstrap, SASS and Cypress.
+React, Webpack, Reactstrap, SASS and Cypress.
 
 ## Quick Start
 
